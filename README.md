@@ -7,3 +7,4 @@ KTU 7th semester compiler design lab
 - [NFA](exp3/nfa.c)
 - [Recursive descent parser](exp6/recursive.c)
 - [NFA to DFA conversion](exp5/nfa-to-dfa.c)
+- [Intermediate code generation for simple expressions](#)
